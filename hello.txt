@@ -1,1 +1,2 @@
+http://vdeep.net/git-submodule
 hello
